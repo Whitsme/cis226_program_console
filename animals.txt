@@ -1,0 +1,4 @@
+The dog goes bark
+The cat goes meow
+The duck goes quack
+The chicken goes cluck
